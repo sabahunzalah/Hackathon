@@ -5,6 +5,8 @@ import SignUp from './components/rigistration/Signup';
 import Login from './components/rigistration/Login';
 import Navbar from './components/Navbar';
 import Dashboard from './components/Dashboard';
+import QuizList from './components/QuizList';
+import AddQuiz from './components/AddQuiz';
 
 function App() {
   return (
