@@ -12,6 +12,8 @@ function App() {
       <Navbar />
       <div className="container mt-4">
         <Routes>
+          <Route path="/" element={<QuizList />} />
+          <Route path="/add" element={<AddQuiz />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
