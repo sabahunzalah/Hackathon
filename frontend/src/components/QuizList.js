@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const quizzes = [
   { id: 1, question: 'What is the capital of France?', options: ['Paris', 'London', 'Berlin', 'Madrid'] },
-  { id: 2, question: 'What is 2 + 2?', options: ['3', '4', '5', '6'] },
+  { id: 2, question: 'What is 4 + 2?', options: ['3', '4', '5', '6'] },
 ];
 
 const QuizList = () => {
