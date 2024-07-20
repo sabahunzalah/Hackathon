@@ -1,0 +1,31 @@
+.custom-navbar {
+    background-color: #d0e2f3;
+    padding: 10px 20px;
+    box-shadow: 0 6px 16px rgba(7, 106, 245, 0.3);
+}
+
+.navbar-logo {
+    width: 120px;
+    height: auto;
+    margin-right: 40px;
+}
+
+.navbar-brand {
+    display: flex;
+    color: rgb(22, 199, 128);
+    align-items: center;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: #5099ed;
+}
+.nav-link {
+    color: #007bff;
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #1bd273;
+    
+}
